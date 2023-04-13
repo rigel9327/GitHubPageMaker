@@ -1,0 +1,14 @@
+jekyll :
+  name: jekyll
+  description:  False
+  cover:  assets/built/images/tag-background.jpg
+
+java :
+  name: java
+  description:  False
+  cover:  assets/built/images/tag-background.jpg
+
+spring :
+  name: spring
+  description: False
+  cover: assets/built/images/tag-background.jpg

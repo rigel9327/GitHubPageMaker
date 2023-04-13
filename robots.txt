@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rigel9327.github.io/sitemap.xml
